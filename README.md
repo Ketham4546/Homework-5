@@ -1,10 +1,15 @@
 **CRN23848 Neural Networks Deep Learning**
+
 **Homework 5**
+
 Student Information
+
 Name: Bharadwaj Ketham
+
 700759639
 
-Project Overview
+**Project Overview:**
+
 This assignment explores Generative Adversarial Networks (GANs), AI ethics topics, basic adversarial simulations, and bias auditing using simple, efficient TensorFlow implementations.
 
 It is divided into the following sections:
